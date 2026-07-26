@@ -1,17 +1,42 @@
+# Andrés Mancilla Oliver
 
-<h1 align="center">Hola 👋, soy Andres Mancilla Oliver</h1>
-<h3 align="center">Un Ingeniero de sistemas y computación, apasionado por el desarrollo de software.</h3>
-🔭 Actualmente estoy trabajando en proyectos con React Js<br><br>🌱 Actualmente estoy aprendiendo Nest js, Vue js,<br><br>👯 Deseo colaborar en proyectos con React, Angular, Vue<br><br>💬 Preguntame a cerca de React, Angular, Vue<br><br>📫 Como contactarme andresmancilla08@gmail.com
+**I design and ship production apps end-to-end.** From the first frame to the store listing: product thinking, design system, code, release.
 
+Remote · LATAM · [Español](./README.es.md)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bhorack) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mancilla.1208) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andresmancillao) 
+---
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![Metero JS](https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=for-the-badge&logo=meteor&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=andresmancilla08&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=andresmancilla08&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andresmancilla08&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## What I build
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Cross-platform products where one codebase serves web, PWA and native — React Native (Expo) and Next.js, always TypeScript. I own the whole surface: design systems, i18n, offline-first data, auth, releases.
+
+## Selected projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[Bowlify](https://github.com/andresmancilla08/Bowlify)** · [bowlify.co](https://bowlify.co) | League manager for Blood Bowl — teams, matches, standings, tournaments, player progression and injuries. A tabletop rules engine, fully modeled. | Expo · React Native · Firestore · Zustand |
+| **[Spendia](https://github.com/andresmancilla08/Spendiapp)** · [live](https://spendia.vercel.app) | Personal finance PWA — expense tracking, shared expenses with friends, proactive AI insights. Trilingual EN/ES/IT. | Expo · Firebase · i18next |
+| **[Parlo](https://github.com/andresmancilla08/Parlo)** · [live](https://parlo-lilac.vercel.app) | Learn English with an AI tutor that corrects you and explains *why* in Spanish. A1–C2 curriculum, spaced repetition, pronunciation, gamification. | Next.js 16 · Gemini · Firebase |
+| **[GrimHeart](https://github.com/andresmancilla08/GrimHeart)** · [grimheart.co](https://grimheart.co) | Mobile-first character sheets for the Daggerheart TTRPG. Bilingual, full creation and level-up flow. | Next.js · Firebase · PWA |
+| **[FilmSpace](https://github.com/andresmancilla08/FilmSpace)** · [live](https://filmspace-two.vercel.app) | Streaming platform for movies, series and anime — built for web and Google TV, with a live IPTV module. | Next.js 15 · Tailwind · hls.js |
+
+## Stack
+
+**Languages** — TypeScript · JavaScript
+**Mobile** — React Native · Expo · EAS Build · React Navigation
+**Web** — Next.js (App Router) · React · Tailwind · Framer Motion · PWA / Service Workers
+**Backend & data** — Firebase (Auth, Firestore, Storage, Rules) · NestJS · MongoDB · REST
+**Craft** — Design systems · i18n (i18next) · Zustand · accessibility · Vercel
+
+## How I work
+
+- **Design system first.** Tokens before components, components before screens — it's why these apps look intentional instead of assembled.
+- **Ship to real users.** Everything above is deployed and in use, not a tutorial repo.
+- **Multilingual by default.** No hardcoded strings; several of these ship in three languages.
+- **One codebase, many platforms** when it makes sense — native-only when it doesn't.
+
+## Let's talk
+
+Open to **remote roles** and **freelance projects** — MVPs, mobile apps, design-system work.
+
+[andresmancilla08@gmail.com](mailto:andresmancilla08@gmail.com) · [LinkedIn](https://www.linkedin.com/in/andresmancillao/)

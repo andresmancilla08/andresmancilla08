@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Andrés Mancilla Oliver — Diseño y publico aplicaciones de principio a fin" width="900">
+</p>
+
 # Andrés Mancilla Oliver
 
 **Diseño y publico aplicaciones de principio a fin.** Del primer boceto a la tienda: producto, sistema de diseño, código y release.
@@ -19,6 +23,10 @@ Productos multiplataforma donde un mismo código sirve web, PWA y nativo — Rea
 | **[Parlo](https://github.com/andresmancilla08/Parlo)** · [live](https://parlo-lilac.vercel.app) | Aprende inglés con un tutor de IA que corrige y explica *el porqué* en español. Currículo A1–C2, repaso espaciado, pronunciación y gamificación. | Next.js 16 · Gemini · Firebase |
 | **[GrimHeart](https://github.com/andresmancilla08/GrimHeart)** · [grimheart.co](https://grimheart.co) | Hojas de personaje mobile-first para el TTRPG Daggerheart. Bilingüe, con creación y subida de nivel completas. | Next.js · Firebase · PWA |
 | **[FilmSpace](https://github.com/andresmancilla08/FilmSpace)** · [live](https://filmspace-two.vercel.app) | Plataforma de streaming de películas, series y anime — para web y Google TV, con módulo de IPTV en directo. | Next.js 15 · Tailwind · hls.js |
+
+## Ahora
+
+Construyendo **Parlo** — tutor de inglés que explica las correcciones en español; ahora mismo, currículo B2 y test de nivel. **Bowlify** y **Spendia** siguen en producción con usuarios reales.
 
 ## Stack
 
